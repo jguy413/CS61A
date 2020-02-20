@@ -19,6 +19,8 @@ http://www-inst.eecs.berkeley.edu/~cs61a/reader/
 
 Syllabus: http://wla.berkeley.edu/~cs61a/sp11/0.pdf
 
+Basic Emacs Guide: https://www.ocf.berkeley.edu/~weitu/cs61a/EmacsHandout.pdf
+
 Github Guide: https://github.com/fgalassi/cs61a-sp11
 
 
